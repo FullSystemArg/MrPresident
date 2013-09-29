@@ -5,9 +5,10 @@
 </asp:Content>
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
     <h2>
-        Acerca de
+        Full System SRL
     </h2>
     <p>
-        Coloque contenido aquí.
+        Simulador MrPresident 1.0 BETA
+        DavidGranados@Fullentregas.com.ar
     </p>
 </asp:Content>
