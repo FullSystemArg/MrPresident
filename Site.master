@@ -14,7 +14,7 @@
     <div class="page">
         <div class="header">
             <div class="title">
-                <asp:Image ID="img_Logo" runat="server" />
+                <asp:Image ID="img_Logo" runat="server" Imageurl="~/img/mr.jpg" />
             </div>
             <div class="clear hideSkiplink">
                 <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" EnableViewState="false" IncludeStyleBlock="false" Orientation="Horizontal">
