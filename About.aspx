@@ -5,10 +5,8 @@
 </asp:Content>
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
     <h2>
-        Full System SRL
+        <asp:label ID="Label1" runat="server" CssClass="label label-important" Text="Full System SRL"></asp:label>
     </h2>
-    <p>
-        Simulador MrPresident 1.0 BETA
-        DavidGranados@Fullentregas.com.ar
-    </p>
+    <div>DavidGranados@Fullentregas.com.ar</div>
+    Simulador <asp:label ID="lbl_President" runat="server" CssClass="label label-info" Text="MrPresident"></asp:label> 1.0 BETA
 </asp:Content>
